@@ -1,0 +1,17 @@
+{
+  "name": "vrptw-demo",
+  "depot": 0,
+  "vehicle": { "count": 3, "capacity": 50 },
+  "locations": [
+    { "name": "depot", "x": 40, "y": 50, "demand": 0,  "ready_time": 0,   "due_time": 240, "service_time": 0 },
+    { "name": "C1", "x": 45, "y": 68, "demand": 10, "ready_time": 0,   "due_time": 60,  "service_time": 10 },
+    { "name": "C2", "x": 45, "y": 70, "demand": 7,  "ready_time": 0,   "due_time": 60,  "service_time": 10 },
+    { "name": "C3", "x": 42, "y": 66, "demand": 13, "ready_time": 30,  "due_time": 90,  "service_time": 10 },
+    { "name": "C4", "x": 25, "y": 85, "demand": 19, "ready_time": 60,  "due_time": 120, "service_time": 10 },
+    { "name": "C5", "x": 22, "y": 75, "demand": 16, "ready_time": 60,  "due_time": 120, "service_time": 10 },
+    { "name": "C6", "x": 18, "y": 80, "demand": 3,  "ready_time": 90,  "due_time": 150, "service_time": 10 },
+    { "name": "C7", "x": 55, "y": 30, "demand": 5,  "ready_time": 90,  "due_time": 150, "service_time": 10 },
+    { "name": "C8", "x": 58, "y": 35, "demand": 9,  "ready_time": 120, "due_time": 180, "service_time": 10 },
+    { "name": "C9", "x": 62, "y": 40, "demand": 16, "ready_time": 120, "due_time": 180, "service_time": 10 }
+  ]
+}

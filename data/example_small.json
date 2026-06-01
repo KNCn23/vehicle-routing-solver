@@ -1,0 +1,23 @@
+{
+  "name": "small-cvrp",
+  "depot": 0,
+  "vehicle": { "count": 4, "capacity": 25 },
+  "locations": [
+    { "name": "depot", "x": 35, "y": 35, "demand": 0 },
+    { "name": "C1",  "x": 41, "y": 49, "demand": 4 },
+    { "name": "C2",  "x": 35, "y": 17, "demand": 6 },
+    { "name": "C3",  "x": 55, "y": 45, "demand": 3 },
+    { "name": "C4",  "x": 55, "y": 20, "demand": 5 },
+    { "name": "C5",  "x": 15, "y": 30, "demand": 7 },
+    { "name": "C6",  "x": 25, "y": 30, "demand": 2 },
+    { "name": "C7",  "x": 20, "y": 50, "demand": 8 },
+    { "name": "C8",  "x": 10, "y": 43, "demand": 3 },
+    { "name": "C9",  "x": 55, "y": 60, "demand": 6 },
+    { "name": "C10", "x": 30, "y": 60, "demand": 5 },
+    { "name": "C11", "x": 20, "y": 65, "demand": 4 },
+    { "name": "C12", "x": 50, "y": 35, "demand": 9 },
+    { "name": "C13", "x": 30, "y": 25, "demand": 3 },
+    { "name": "C14", "x": 15, "y": 10, "demand": 2 },
+    { "name": "C15", "x": 45, "y": 65, "demand": 6 }
+  ]
+}
